@@ -75,7 +75,7 @@
                             <h1 class="mb-4">
                                 Website Latihan <br>
                                 Calon Polisi <br>
-                                <span class="accent-text">JILC Kediri</span>
+                                <span class="accent-text">JILC Kendari</span>
                             </h1>
 
                             <p class="mb-4 mb-md-5">
