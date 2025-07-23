@@ -60,7 +60,7 @@ jobs:
         password: ${{ secrets.FTP_DEV_PASS }}
         exclude: |
           public/**
-          .git/*
+          .git/**
           node_modules/**
           vendor/**
           .env
